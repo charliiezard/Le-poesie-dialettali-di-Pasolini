@@ -1,0 +1,108 @@
+
+.raccolte {
+  height: 200px;
+}
+
+.topimage {
+  height: 200px;
+  margin-top: 10px;
+  border-radius: 20px; 
+}
+
+.container {
+  margin-top:30px;
+}
+
+body {
+   z-index: 1;
+}
+
+.left{
+    padding: 0;
+    list-style-type: none;
+}
+
+.navbar-nav {
+    float:none;
+    margin:0 auto;
+    display: block;
+    text-align: center;
+}
+
+.navbar-nav > li {
+    display: inline-block;
+    float:none;
+}
+
+.navbar.navbar-expand-sm.bg-dark.navbar-dark {
+  position: -webkit-sticky; 
+  position: sticky; 
+  top: 0;
+  z-index: 2;
+}
+
+.btn.btn-info {
+  padding: 0px 5px 0px 5px;
+  margin-bottom: 3px;
+}
+
+.btn.btn-primary {
+  margin: 10px;
+}
+
+.fas.fa-download {
+  position: absolute;
+  left: 0;
+  padding-top: 10px;
+}
+
+.fas.fa-caret-down {
+  padding-left: 10px;
+}
+
+ .jumbotron.text-center {
+  margin-bottom:0;
+}
+
+#logo {
+  padding-bottom: 40px;
+}
+
+/* box di ricerca */
+* {
+  box-sizing: border-box;
+}
+
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  background: #f1f1f1;
+}
+
+form.example button {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+}
+
+form.example button:hover {
+  background: #0b7dda;
+}
+
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+
