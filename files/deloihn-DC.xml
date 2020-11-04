@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<library xmlns:dc="http://purl.org/dc/elements/1.1/" xml:id="Poesie">
+<library xml:id="Poesie"
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+
   <item n="5" xml:id="Poesie-5">
       <dc:identifier>https://charliiezard.github.io/Le-poesie-dialettali-di-Pasolini/DeLoihn.html</dc:identifier>
       <dc:title>Le posie dialettali di Pasolini</dc:title>
