@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mp:metadata
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://example.org/MyProject/ http://example.org/MyProject/schema.xsd"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:dcterms="http://purl.org/dc/terms/">
 
-  <dc:title>De Loihn</dc:title>
-  <dc:creator>Pier Paolo Pasolini</dc:creator>
-  <dc:type>Poesia</dc:type>
-  <dc:format>Testo</dc:format>
-  <dc:language>Italiano</dc:language>
-  <dc:IsPartOf xsi:type="URI">http://www.worldcat.org/oclc/563734014</dc:IsPartOf>
-  <dc:description xml:lang="it">Poesia dell'autore</dc:description>
-  <dc:subject>poesia italiana, letteratura italiana, letteratura, dialetto, poesia dialettale</dc:subject>
-  <dc:subject xsi:type="dcterms:DDC">851</dc:subject>
-  <dc:date>1950-53</dc:date>
-
-</mp:metadata>
+<library xmlns:dc="http://purl.org/dc/elements/1.1/" xml:id="Poesie">
+  <item n="5" xml:id="Poesie-5">
+      <dc:identifier>https://charliiezard.github.io/Le-poesie-dialettali-di-Pasolini/DeLoihn.html</dc:identifier>
+      <dc:title>Le posie dialettali di Pasolini</dc:title>
+      <dc:title>Poesie a Casarsa</dc:title>
+      <dc:title>De Loihn</dc:title>
+      <dc:description xml:lang="it">Poesia dell'autore</dc:description>
+      <dc:creator>Pier Paolo Pasolini</dc:creator>
+      <dc:date type="subject">1922-1975</dc:date>
+      <dc:date type="creation">1950-1953</dc:date>
+      <dc:language>Italiano</dc:language>
+      <dc:coverage>Italia</dc:coverage>
+      <dc:subject type="classification-scheme">poesia italiana, letteratura italiana, letteratura, dialetto, poesia dialettale</dc:subject>
+      <dc:subject xsi:type="dcterms:DDC">851</dc:subject>
+      <dc:type>Poesia</dc:type>
+      <dc:IsPartOf xsi:type="URI">http://www.worldcat.org/oclc/563734014</dc:IsPartOf>
+      <dc:relation>Poesia dialettale italiana</dc:relation>
+  </item>
+</library>
