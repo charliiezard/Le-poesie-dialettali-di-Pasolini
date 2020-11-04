@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mp:metadata
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://example.org/MyProject/ http://example.org/MyProject/schema.xsd"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+
+  <dc:title>De Loihn</dc:title>
+  <dc:creator>Pier Paolo Pasolini</dc:creator>
+  <dc:type>Poesia</dc:type>
+  <dc:format>Testo</dc:format>
+  <dc:language>Italiano</dc:language>
+  <dc:IsPartOf xsi:type="URI">http://www.worldcat.org/oclc/563734014</dc:IsPartOf>
+  <dc:description xml:lang="it">Poesia dell'autore</dc:description>
+  <dc:subject>poesia italiana, letteratura italiana, letteratura, dialetto, poesia dialettale</dc:subject>
+  <dc:subject xsi:type="dcterms:DDC">851</dc:subject>
+  <dc:date>1950-53</dc:date>
+
+</mp:metadata>
