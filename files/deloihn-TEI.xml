@@ -27,16 +27,21 @@
 					</p>
 				</availability>
 			</publicationStmt>
+			<seriesStmt>
+		        <title>Le poesie dialettali di Pasolini</title>
+		        <respStmt>
+		          <name>Chiara Buldrini</name>
+		          <resp>editor</resp>
+		        </respStmt>
+		    </seriesStmt>
+			<sourceDesc>
+        	<p>Libro a stampa</p>
+     	 	</sourceDesc>
 		</fileDesc>
 	</teiHeader>
-	<text>
+	<text xml:id="DL" type="poetry">
 		<body>
-		<pb xml:id="5">
-		<front>
-			<docTitle>
-				<titlePart>De Loihn</titlePart>
-			</docTitle>
-		</front>
+			<head>De Loihn</head>
 			<lg type="versi-liberi">
 				<lg type="strofa">
 					<l>Adès sì ch’a èis</l>
@@ -71,7 +76,6 @@
 					<l>ma doventàs di un altri; nus</l>
 				</lg>
 			</lg>
-		  </pb>
 		</body>
 	</text>
 </TEI>
