@@ -43,37 +43,37 @@
 		<body>
 			<head>De Loihn</head>
 			<lg type="versi-liberi">
-				<lg type="strofa">
-					<l>Adès sì ch’a èis</l>
-					<l>di scaturìssi</l>
-					<l>vuardànt fis,</l>
-					<l>par di là dai dis,</l>
-					<l>il dì ch’jo i eri</l>
-					<l>un frut, adès che chel frut veri</l>
-					<l>no soj pì jo,</l>
-					<l>e al sint ta li orelis il piot</l>
-					<l>vif ta na ciera che nissùn pì a no jot!</l>
+				<lg type="strofa" n="1">
+					<l n="1">Adès sì ch’a èis</l>
+					<l n="2">di scaturìssi</l>
+					<l n="3">vuardànt fis,</l>
+					<l n="4">par di là dai dis,</l>
+					<l n="5">il dì ch’jo i eri</l>
+					<l n="6">un frut, adès che chel frut veri</l>
+					<l n="7">no soj pì jo,</l>
+					<l n="8">e al sint ta li orelis il piot</l>
+					<l n="9">vif ta na ciera che nissùn pì a no jot!</l>
 				</lg>
-				<lg type="strofa">
-					<l>Adès sì ch’a ven</l>
-					<l>di sigà a fuàrt</l>
-					<l>jodìnt, ta un recuàrt</l>
-					<l>che pì a no’l art,</l>
-					<l>i vuj di un zòvin…</l>
-					<l>un Friùl dulà ch’a no plòvin</l>
-					<l>pì nencia àgrimis…</l>
-					<l>e ch’a businin li sagris</l>
-					<l>ta li me orelis coma ta ches di un altri…</l>
+				<lg type="strofa" n="2">
+					<l n="10">Adès sì ch’a ven</l>
+					<l n="11">di sigà a fuàrt</l>
+					<l n="12">jodìnt, ta un recuàrt</l>
+					<l n="13">che pì a no’l art,</l>
+					<l n="14">i vuj di un zòvin…</l>
+					<l n="15">un Friùl dulà ch’a no plòvin</l>
+					<l n="16">pì nencia àgrimis…</l>
+					<l n="17">e ch’a businin li sagris</l>
+					<l n="18">ta li me orelis coma ta ches di un altri…</l>
 				</lg>
-				<lg type="strofa">
-					<l>Adès sì ch’a revoca</l>
-					<l>un plant di muàrt</l>
-					<l>parsè che il cialt</l>
-					<l>e il frèit dal alt</l>
-					<l>plan dal Friùl</l>
-					<l>son insembràs ta un azur</l>
-					<l>di dis no pierdùs,</l>
-					<l>ma doventàs di un altri; nus</l>
+				<lg type="strofa" n="3">
+					<l n="19">Adès sì ch’a revoca</l>
+					<l n="20">un plant di muàrt</l>
+					<l n="21">parsè che il cialt</l>
+					<l n="22">e il frèit dal alt</l>
+					<l n="23">plan dal Friùl</l>
+					<l n="24">son insembràs ta un azur</l>
+					<l n="25">di dis no pierdùs,</l>
+					<l n="26">ma doventàs di un altri; nus</l>
 				</lg>
 			</lg>
 		</body>
